@@ -1,4 +1,5 @@
-# ---- 构建中转（每次 build.bat 重新生成）----
+# ---- 构建产物（build.bat 生成，不进仓库）----
+dist/
 *.obj
 *.res
 *.pdb
@@ -27,6 +28,7 @@ tools/*.etl
 tools/*.pcap
 tools/_*.bin
 tools/*.txt
+!tools/README.md
 
 # ---- 备份 ----
 *.bak
