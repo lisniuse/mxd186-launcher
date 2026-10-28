@@ -1,0 +1,68 @@
+mxd186 登录器 —— 署名-非商业性使用许可 1.0
+==========================================
+Copyright (c) 2026 lisniuse
+https://github.com/lisniuse/mxd186-launcher
+
+本许可在 MIT 许可的基础上增加两项限制：**必须署名**、**禁止商业用途**。
+只要遵守下列全部条件，即被授予使用、复制、修改、合并、发布、分发本软件及其衍生作品的权利。
+
+一、必须署名（Attribution）
+  1. 分发本软件或其衍生作品（源码或二进制）时，必须保留本许可文件与原始版权声明，不得删除或修改。
+  2. 必须在显著位置（README、关于对话框、发布页说明等）注明：
+       - 原作者：lisniuse
+       - 原项目：mxd186 登录器
+       - 原项目地址：https://github.com/lisniuse/mxd186-launcher
+  3. 修改过的版本必须明确标注"已修改"，不得暗示原作者为你背书。
+
+二、禁止商业用途（Non-Commercial）
+  1. 不得将本软件或其衍生作品用于任何商业目的，包括但不限于：
+       - 销售、出租、许可收费；
+       - 付费下载、会员专享、打赏解锁等变现形式；
+       - 作为付费服务、代练、代充、私服运营等经营活动的一部分；
+       - 在产品或服务中捆绑、随附以获取商业利益；
+       - 以本软件为主要卖点的任何盈利行为。
+  2. 个人自用、学习研究、非营利的内部测试与交流，不受此限制。
+  3. 如需商业授权，须事先取得版权持有者的书面许可。
+
+三、免责声明（No Warranty）
+  本软件按"现状"提供，不附带任何明示或默示的担保，包括但不限于适销性、特定用途适用性与
+  不侵权的担保。在任何情况下，作者或版权持有人均不对任何索赔、损害或其他责任负责，
+  无论是在合同诉讼、侵权行为还是其他方面，由本软件或本软件的使用或其他交易引起、
+  产生或与之相关。
+
+四、其他
+  1. 上述限制不影响你依据法律享有的、不可被合同排除的权利。
+  2. 本许可的最终解释以中文版本为准。
+
+---
+
+mxd186 Launcher — Attribution-NonCommercial License 1.0
+=======================================================
+Copyright (c) 2026 lisniuse
+https://github.com/lisniuse/mxd186-launcher
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software
+and associated documentation files (the "Software"), to deal in the Software without restriction,
+including without limitation the rights to use, copy, modify, merge, publish, and distribute,
+subject to the following conditions:
+
+1. ATTRIBUTION. The above copyright notice, this license and the following attribution must be
+   included in all copies or substantial portions of the Software:
+   - Author: lisniuse
+   - Project: mxd186 Launcher
+   - Source: https://github.com/lisniuse/mxd186-launcher
+   Modified versions must be plainly marked as modified and must not misrepresent the original
+   author as endorsing them.
+
+2. NON-COMMERCIAL. The Software and any derivative work may not be used for any commercial
+   purpose, including but not limited to selling, licensing for a fee, paywalled distribution,
+   bundling for commercial gain, or use as part of any revenue-generating service.
+   Personal, educational and other non-commercial use is permitted.
+   Commercial use requires prior written permission from the copyright holder.
+
+3. NO WARRANTY. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+   PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+   LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+   OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+   DEALINGS IN THE SOFTWARE.
