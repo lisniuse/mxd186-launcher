@@ -1,0 +1,39 @@
+# ---- 构建中转（每次 build.bat 重新生成）----
+*.obj
+*.res
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.idb
+*.map
+*.tlog
+*.lastbuildstate
+.vs/
+Build/
+x64/
+Debug/
+Release/
+
+# ---- 运行产物 ----
+*.log
+launcher.log
+
+# ---- 临时 / 调试产物 ----
+_shot_test.exe
+_t/
+tools/match_test.exe
+tools/*.etl
+tools/*.pcap
+tools/_*.bin
+tools/*.txt
+
+# ---- 备份 ----
+*.bak
+*.old
+*.orig
+
+# ---- 系统 ----
+Thumbs.db
+desktop.ini
+.DS_Store

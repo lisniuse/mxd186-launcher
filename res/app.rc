@@ -1,0 +1,10 @@
+// res/app.rc —— 把模板图打包进 exe（单文件分发）
+//
+// 编译：rc /nologo /fo res\app.res res\app.rc
+// 链接：把 res\app.res 作为输入文件传进去（build.bat 已处理）
+//
+// 资源 id 101 与 src/ui.cpp 里 kBackHomeResId 对应，别对不上。
+
+#include <windows.h>
+
+101 RCDATA "..\\assets\\backhome.png"
